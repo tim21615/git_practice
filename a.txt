@@ -4,3 +4,4 @@ second added by a
 master commit 1
 feature/changeA
 
+master commit2
